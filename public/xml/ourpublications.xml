@@ -1,0 +1,18 @@
+<content>
+	<issue>
+			<title>Fun Run</title>
+			<imageSource>/resources/images/article/fullimgfunrun.jpg</imageSource>
+			<paragraph>
+				With a meager budget, the Department of Tourism has started a phenomenal meme campaign that breaks boundaries. Rhoel V. Fernandez reports. 
+			</paragraph>
+			<link>/articles/funrun</link>
+	</issue>
+	<issue>
+			<title>Winds Of Change</title>
+			<imageSource>/resources/images/article/fullimgwindsofchange.jpg</imageSource>
+			<paragraph>
+				With sound legislation and economic principles from the current administration, the Philippines is poised, more than ever, to greater heights." Sonny Coloma tells the inside story.
+			</paragraph>
+			<link>/articles/windsofchange</link>
+	</issue>
+</content>
