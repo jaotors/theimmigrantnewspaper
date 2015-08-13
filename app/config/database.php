@@ -54,10 +54,10 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => $_ENV['mysql_host'],
-			'database'  => $_ENV['mysql_db'],
-			'username'  => $_ENV['mysql_user'],
-			'password'  => $_ENV['mysql_pass'],
+			'host'      => 'localhost',
+			'database'  => 'theimmig',
+			'username'  => 'root',
+			'password'  => '',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
